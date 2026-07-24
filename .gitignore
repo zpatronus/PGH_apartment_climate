@@ -1,0 +1,6 @@
+*.py
+*.sh
+*.sqlite
+*.db
+__pycache__
+venv
